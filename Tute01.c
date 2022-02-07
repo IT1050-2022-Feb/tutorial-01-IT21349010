@@ -13,7 +13,7 @@ int main() {
 	printf("Enter the mark of module: ");
 	scanf("%d", &no2);
 	
-	average = (no1 + no2) / 2;
+	average = (no1 + no2) / 2.00;
 	printf("Average is %.2f\n",average);
   
   return 0;
